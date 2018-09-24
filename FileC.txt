@@ -1,3 +1,5 @@
 This is the third file
 
 This is the second line in the Third File
+
+This is the third line in the third file
