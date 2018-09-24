@@ -2,4 +2,6 @@ This is the Second File
 
 This is the Second Line in Second File
 
+This is the Fix I've added
+
 This is the Third Line
